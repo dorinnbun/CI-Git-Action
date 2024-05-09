@@ -20,4 +20,4 @@ jobs:
         with:
           context: DockerFolder/
           push: true
-          tags: chanmuk/gitdockerci:latest
+          tags: dorinnbun/gitdockerci:v1.0
